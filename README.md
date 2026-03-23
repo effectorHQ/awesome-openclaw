@@ -196,8 +196,7 @@ Within each section, entries are listed chronologically (newest last). Sections 
 
 ## License
 
-
-This project is currently licensed under the Apache 2.0 License 。
+This project is currently licensed under the [Apache License, Version 2.0](LICENSE.md) 。
 
 This list is licensed under [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/). You are free to use and modify this list for any purpose without attribution.
 
